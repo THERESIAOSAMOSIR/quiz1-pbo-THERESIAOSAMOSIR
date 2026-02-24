@@ -1,0 +1,15 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+untuk membuat sebuah sistem yang baik, hal hal apa saja yang dieprlukan 
+analisis masalah: tidak tahu laundry sudah selesai atau belum. memang mahasiswa tau kalau laundry itu 1 hari selesai. namun mahasiswa tidak tahu laundry siapa" saja yang sudah di antarkan oleh driver ke asrama. baju yang sering tertukar. untuk biayaa sudah di tetapkan secara keseluruhan 10k/minggu 
+
+buatkan sistem nya 
+buatlah kode java sederhana untuk sistem nya 
+berikan contoh input dan output nya 
+untuk awalan code, harus pakai ini public class Driver3 {
+    
+}
+ini apa yang salah
+pakai bin, bukan src
+terus apalagi 
+oow
+keluarin dulu dari src gimana
