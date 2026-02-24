@@ -1,0 +1,12 @@
+com mengerjakan quiz
+ini, jelasin mau ngerjain apa terus apa yang harus di pahami dari soal ini dan materi apa aja yang terkait ke soal ini 
+public class Driver2 {
+    
+}
+
+ini code awalann yang harus digunakan, jadi ajarin step by step setelah ini apa  
+satukan ajala dari awal 
+input, output nya 
+ni kenapa hacemni
+ compile kan gunakan ini 	javac src/model/*.java src/driver/*.java -d bin
+
